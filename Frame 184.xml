@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>Frame 184.jpg</filename>
+	<path>C:\Users\nikod\Downloads\Dataset\Frame 184.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Revolver</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>118</ymin>
+			<xmax>800</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>

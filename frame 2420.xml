@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Frame 49-56 x 1seg</folder>
+	<filename>frame 2420.jpg</filename>
+	<path>C:\Users\nikod\Downloads\Dataset Armas de Mano 1S\Frame 49-56 x 1seg\frame 2420.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pistola</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>386</ymin>
+			<xmax>270</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Revolver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>558</xmin>
+			<ymin>258</ymin>
+			<xmax>651</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

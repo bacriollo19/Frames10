@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Frame 25-49 x 1seg</folder>
+	<filename>frame 2016.jpg</filename>
+	<path>C:\Users\nikod\Downloads\Dataset Armas de Mano 1S\Frame 25-49 x 1seg\frame 2016.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pistola</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>319</ymin>
+			<xmax>610</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>

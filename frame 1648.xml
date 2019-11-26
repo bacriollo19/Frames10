@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Dataset Armas de Mano 1S</folder>
+	<filename>frame 1648.jpg</filename>
+	<path>C:\Users\braya\models\models\research\object_detection\images\Dataset Armas de Mano 1S\frame 1648.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pistola</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>264</ymin>
+			<xmax>630</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>

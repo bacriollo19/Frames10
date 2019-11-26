@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Frame 1-25 x 1seg</folder>
+	<filename>frame 1114.jpg</filename>
+	<path>C:\Users\nikod\Downloads\Dataset Armas de Mano 1S\Frame 1-25 x 1seg\frame 1114.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Revolver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>9</ymin>
+			<xmax>574</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>
